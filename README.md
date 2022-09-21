@@ -17,6 +17,4 @@
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-felipe-5148a81b5/)
 
-<br><br>
-
 ![](https://komarev.com/ghpvc/?username=Vinicius-gif)
